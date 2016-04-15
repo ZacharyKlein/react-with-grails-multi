@@ -1,0 +1,5 @@
+node_modules
+dealer-frontend/.gradle/
+dealer/.gradle
+dealer/build
+.gradle
